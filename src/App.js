@@ -307,8 +307,8 @@ function App() {
                   <div className="profile-info">
                     <FaUserCircle className="profile-icon1" />
                     <div className="name-date">
-                      <span className="name">Anshu Dwivedi</span>
-                      <span className="date">May 18, 2024</span>
+                      <span className="name">Sonali Dwivedi</span>
+                      <span className="date">Feb 2, 2024</span>
                     </div>
                   </div>
                   <div className="edit-section">
